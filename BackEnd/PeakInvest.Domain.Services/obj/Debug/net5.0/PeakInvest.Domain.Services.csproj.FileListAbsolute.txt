@@ -1,0 +1,17 @@
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Domain.Services.deps.json
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Domain.Services.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\ref\PeakInvest.Domain.Services.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Domain.Services.pdb
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Domain.Models.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Infrastructure.Repository.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Domain.Models.pdb
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\bin\Debug\net5.0\PeakInvest.Infrastructure.Repository.pdb
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.csprojAssemblyReference.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.AssemblyInfo.cs
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.csproj.CopyComplete
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\ref\PeakInvest.Domain.Services.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Domain.Services\obj\Debug\net5.0\PeakInvest.Domain.Services.pdb

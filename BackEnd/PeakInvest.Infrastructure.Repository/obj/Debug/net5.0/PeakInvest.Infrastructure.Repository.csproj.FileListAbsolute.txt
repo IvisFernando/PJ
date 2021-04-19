@@ -1,0 +1,15 @@
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\PeakInvest.Infrastructure.Repository.deps.json
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\PeakInvest.Infrastructure.Repository.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\ref\PeakInvest.Infrastructure.Repository.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\PeakInvest.Infrastructure.Repository.pdb
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\PeakInvest.Domain.Models.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\bin\Debug\net5.0\PeakInvest.Domain.Models.pdb
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\ref\PeakInvest.Infrastructure.Repository.dll
+C:\Users\ivisf\Downloads\pi-master\pi-master\BackEnd\PeakInvest.Infrastructure.Repository\obj\Debug\net5.0\PeakInvest.Infrastructure.Repository.pdb

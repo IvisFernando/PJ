@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PeakInvest.Domain.Services/1.0.0": {
+        "dependencies": {
+          "PeakInvest.Domain.Models": "1.0.0",
+          "PeakInvest.Infrastructure.Repository": "1.0.0"
+        },
+        "runtime": {
+          "PeakInvest.Domain.Services.dll": {}
+        }
+      },
+      "PeakInvest.Domain.Models/1.0.0": {
+        "runtime": {
+          "PeakInvest.Domain.Models.dll": {}
+        }
+      },
+      "PeakInvest.Infrastructure.Repository/1.0.0": {
+        "dependencies": {
+          "PeakInvest.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "PeakInvest.Infrastructure.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeakInvest.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeakInvest.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeakInvest.Infrastructure.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
